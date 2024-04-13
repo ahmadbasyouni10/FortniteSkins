@@ -1,0 +1,12 @@
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.image2 {
+    width:50%;
+    height:50%;
+}
